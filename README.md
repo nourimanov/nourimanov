@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nourimanov
+- 👀 I’m interested in System Accurary
+- 🌱 I’m currently learning Python/Django
+- 💞️ I’m looking to collaborate on WF
+- 📫 How to reach me nourimanov@gmail.com
