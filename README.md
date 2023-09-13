@@ -25,3 +25,9 @@
 
 
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourimanov&show_icons=true&locale=en&layout=compact" alt="nourimanov" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourimanov&show_icons=true&locale=en" alt="nourimanov" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourimanov&" alt="nourimanov" /></p>
