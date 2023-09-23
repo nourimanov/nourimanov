@@ -1,5 +1,5 @@
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
-<h1 align="center">Hi 😊, I'm Nuraddin</h1>
+<h1 align="center">Hi there 👋🏻. I'm Nuraddin</h1>
 <h3 align="center">I am a Python Backend developer from Uzbekistan</h3>
 
 <img align="right"  alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
