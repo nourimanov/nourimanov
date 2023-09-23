@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **FastAPI, DRF**
 
-- 💬 Ask me about **Python, Aiogram, Docker, Django, DRF, FastAPI, Redis, Celery, PostgreSQL**
+- 💬 Ask me about **Python, Django**
 
 - 📫 How to reach me **nourimanov@gmail.com**
 
