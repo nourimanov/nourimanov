@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourimanov&label=Profile%20views&color=0e75b6&style=flat" alt="nourimanov" /> </p>
 
-- 🔭 I’m currently working on [Instagram clone](https://github.com/nourimanov/Insta-clone)
+- 🔭 I’m currently working on [Payment-bot]()
 
 - 🌱 I’m currently learning **FastAPI, DRF**
 
